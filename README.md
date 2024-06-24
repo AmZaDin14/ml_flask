@@ -7,7 +7,7 @@
 
 ## Langkah penggunaan
 
-1. Download repo ini lewat Code > Download ZIP
+1. Download repo ini lewat Code > Download ZIP atau dari menu Releases di sebelah kanan
 1. Ekstrak file zip tersebut
 1. Buka terminal, cd ke direktori ml_flask
 1. Install Requirements menggunakan perintah:
@@ -16,7 +16,9 @@
 python -m pip install -r requirements.txt
 ```
 
-5. Jalankan app.py dengan perintah
+5. Pindahkan model.pkl yang sudah disiapkan ke direktori ml_flask
+
+1. Jalankan app.py dengan perintah
 
 ```bash
 python app.py
