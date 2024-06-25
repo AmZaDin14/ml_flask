@@ -23,4 +23,4 @@ python -m pip install -r requirements.txt
 python app.py
 ```
 
-7. Setelah berhasil, buka browser, lalu menuju ke http://127.0.0.0:5000
+7. Setelah berhasil, buka browser, lalu menuju ke http://127.0.0.1:5000
