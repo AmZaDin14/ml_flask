@@ -17,9 +17,10 @@ python -m pip install -r requirements.txt
 ```
 
 5. Pindahkan model.pkl yang sudah disiapkan ke direktori ml_flask
-
 1. Jalankan app.py dengan perintah
 
 ```bash
 python app.py
 ```
+
+7. Setelah berhasil, buka browser, lalu menuju ke http://127.0.0.0:5000
